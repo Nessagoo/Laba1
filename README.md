@@ -12,8 +12,8 @@ _Язык программирования:_ Java
 переход на экран 2 (`MainActivity2`)
 передается параметр из `MainActivity` в переменную экрана `MainActivity2`
 отображается текст "Переданный параметр: Томилинов".
-![image_alt](https://github.com/QTEKZ/Laba1/blob/main/lab1pj11.PNG?raw=true)
-![image_alt](https://github.com/QTEKZ/Laba1/blob/main/lab1pj12.PNG?raw=true)
+![image_alt](https://github.com/QTEKZ/Lab1Tom/blob/main/лаба1скрин1.PNG?raw=true)
+![image_alt](https://github.com/QTEKZ/Lab1Tom/blob/main/лаба1скрин2.PNG?raw=true)
 
 ### Как передается параметр
 Как только приложение получает сигнал о том, что пользователь нажал на кнопку:
